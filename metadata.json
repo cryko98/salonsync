@@ -1,0 +1,7 @@
+{
+  "name": "SalonSync",
+  "description": "Premium időpontkezelő és AI asszisztens szépségipari szakembereknek.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
